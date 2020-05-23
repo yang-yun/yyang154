@@ -1,2 +1,2 @@
-Yun Yang
-OPS435NCC
+Full Name: Yun Yang
+Section: OPS435NCC
